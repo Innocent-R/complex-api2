@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(247, 244, 244);
+}
+h1{
+    font-size: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+section{
+    padding: 2%;
+}
+input, button{
+    width: 15%;
+    height: 40px;
+    font-size: 1em;
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+}
+button:active{
+    background-color: rgb(160, 200, 67);
+}
+#image{
+    width: 80%;
+}
+#description{
+    font-size: 1.3em;
+}
+h2{
+    color: rgb(4, 80, 4);
+}
+@media screen and (max-width: 866px){
+  h1{
+    font-size: 1.8em;
+  }
+  #combined{
+    display:flex;
+    flex-direction: column;
+  }
+ input{
+    width: 40%;
+margin-bottom: 4px;
+ }
+  button{
+    width: 30%;
+  }
+}
+@media screen and (max-width: 663px){
+    h1{
+        font-size: 1.5em;
+    }
+}
+@media screen and (max-width: 411px){
+    #description{
+        font-size: 1em;
+    }
+}
