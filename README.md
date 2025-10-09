@@ -1,22 +1,9 @@
-# 📊 Project: Complex API 2
+My Complex API2 project is build using html, css and javascript. It consists of two different urls(players url and news url) where the second one fetches information from the first url data. Players api shows a player's nationality and the news api displays news of the that certain country. The user can enter the player's names and reads his country's most recent news.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+How It's Made:
+Tech used: HTML, CSS, and JavaScript
 
-### How to submit your code for review:
+Lessons Learned:
+From my complex API project, I learned how to fetch data from the existing data. I also learned how to target key values from an object using array method.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<img width="1057" height="853" alt="complex 2" src="https://github.com/user-attachments/assets/a3cca8ba-bbcc-4a7e-a95b-761b00785b14" />
