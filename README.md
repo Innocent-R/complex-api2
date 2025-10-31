@@ -1,4 +1,4 @@
-My Complex API2 project is build using html, css and javascript. It consists of two different urls(players url and news url) where the second one fetches information from the first url data. Players api shows a player's nationality and the news api displays news of the that certain country. The user can enter the player's names and reads his country's most recent news.
+My Complex API2 project is built using HTML, CSS, and JavaScript. It integrates two APIs: a Players API and a News API, where the News API fetches information based on data from the Players API. The Players API provides a player’s nationality, and the News API displays the latest news from that country. Users can enter a player’s name to view news from their country.
 
 How It's Made:
 Tech used: HTML, CSS, and JavaScript
